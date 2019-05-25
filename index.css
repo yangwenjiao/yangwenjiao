@@ -1,0 +1,246 @@
+
+.page1 {
+    background: url('image/a.webp') no-repeat;
+    background-size: cover;
+}
+
+.page1 img {
+    position: absolute;
+}
+
+.page1 img:nth-of-type(1) {
+
+    width: 6rem;
+    height: 6.8rem;
+    left: 0.8rem;
+    top: .4rem;
+
+
+}
+
+.one {
+    font-size: .65rem;
+    text-align: center;
+    color: brown;
+    
+}
+
+.two {
+    font-size: .4rem;
+    text-align: center;
+    color: black;
+}
+
+.three {
+    font-size: .6rem;
+    text-align: center;
+    color: antiquewhite;
+}
+.four {
+    font-size: .3rem;
+    text-align: center;
+    color: antiquewhite; 
+}
+
+
+/* ==PAGE2== */
+.page2 {
+    background: url('image/b.webp') no-repeat;
+    background-size: cover;
+}
+
+.page2 img {
+    position: absolute;
+}
+
+.page2 img:nth-of-type(1) {
+    width: 4.5rem;
+    height: 3rem;
+    left: .1rem;
+    top: .4rem;
+}
+
+.page2 img:nth-of-type(2) {
+    width: 3.8rem;
+    height: 2.5rem;
+    left: .1rem;
+    top: 3.7rem;
+}
+
+.page2 img:nth-of-type(3) {
+    width: 4.3rem;
+    height: 3rem;
+    left: .1rem;
+    top: 6.3rem;
+}
+
+
+
+.five {
+    font-size: 1.5rem;
+    text-align: right;
+    color: brown;
+}
+.six {
+    font-size: .6rem;
+    text-align: right;
+    color: antiquewhite;
+}
+
+.page3 {
+    background: url('image/c.webp') no-repeat;
+    background-size: cover;
+}
+.page3 img {
+    position: absolute;
+}
+
+
+.box2 {
+    font-size: 1.5rem;
+    text-align: right;
+    color: brown;
+}
+.box3 {
+    font-size: .5rem;
+    text-align: right;
+    color: antiquewhite;
+}
+
+
+
+.page3 img:nth-of-type(1) {
+    width: 2.5rem;
+    height: 3rem;
+    left: .1rem;
+    bottom: .1rem;
+}
+
+.page3 img:nth-of-type(2) {
+    width: 2.6rem;
+    height: 3rem;
+    left: .1rem;
+    top: 1.5rem;
+}
+
+.page3 img:nth-of-type(3) {
+    width: 3.5rem;
+    height: 3rem;
+    right: .2rem;
+    top: 3.2rem;
+}
+.page3 img:nth-of-type(4) {
+    width: 3rem;
+    height: 3rem;
+    left: 1.3rem;
+    bottom: 3.2rem;
+}
+
+.page3 img:nth-of-type(5) {
+    width: 3rem;
+    height: 3.48rem;
+    right: .2rem;
+    bottom: .1rem;
+}
+
+.page3 img:nth-of-type(6) {
+    width: 3rem;
+    height: 3.48rem;
+    left: .2rem;
+    bottom: .1rem;
+}
+
+
+.page4 {
+    background: url('image/d.webp') no-repeat;
+    background-size: cover;
+}
+.page4 img{
+    position: absolute;
+}
+.page4 img:nth-of-type(1) {
+    width: rem;
+    height: 2.6rem;
+    left: .1rem;
+    top: .2rem;
+}
+
+.page4 img:nth-of-type(2) {
+    width: 2.5rem;
+    height: 2.7rem;
+    left: .1rem;
+    top: 3.3rem;
+}
+
+.page4 img:nth-of-type(3) {
+    width: 4.2rem;
+    height: 2rem;
+    left: 3.1rem;
+    top: 3rem;
+}
+
+.page4 img:nth-of-type(4) {
+    width: 4rem;
+    height: 3.48rem;
+    left: .2rem;
+    top: 6.2rem;
+}
+.box1 {
+    font-size: 1.7rem;
+    text-align: right;
+    color: blueviolet
+}
+
+.page5 {
+    background: url('image/f.webp') no-repeat;
+    background-size: cover;
+}
+.page5 img {
+    position: absolute;
+}
+.page5 img:nth-of-type(1) {
+    width: 6.7rem;
+    height: 7rem;
+    left: .2rem;
+    top: .2rem;
+}
+
+.box5 {
+    font-family:"华文彩云";
+    font-size: .5rem;
+    text-align: center;
+    color: antiquewhite;  
+}
+
+
+
+.page6 {
+    background: url('image/e.webp') no-repeat;
+    background-size: cover;
+}
+.page6 img {
+    position: absolute;
+}
+.seven {
+    font-size: 1.4rem;
+    text-align: center;
+    color: brown;
+}
+.eight {
+    font-size: .3rem;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.nine {
+    font-family: monospace;
+    font-size: .45rem;
+    text-align: center;
+    color: azure;
+}
+.ten {
+    font-family: monospace;
+    font-size: 1.2rem;
+    text-align: center;
+    color: azure;
+}
